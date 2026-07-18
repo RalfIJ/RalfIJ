@@ -32,6 +32,14 @@ Deze repository is een persoonlijke fitness-coach. Alles hieronder geldt voor el
 - **Vegetarisch.**
 - Kookdagen: **woensdag, vrijdag, zaterdag, zondag.**
 - Maandag/dinsdag/donderdag: restjes, meal-prep of oplossingen van <10 minuten.
+- Koken is standaard voor **2 personen** (zondag-batch = 3 dagen × 2 = 6 porties; woensdag dubbel = 4 porties).
+
+### Winkels
+
+- **Albert Heijn** — naast de deur; de standaardwinkel voor boodschappenlijsten.
+- **DekaMarkt** — iets verder; alternatief voor grotere inkopen of aanbiedingen.
+- **Indonesische toko** — dichtbij; goedkope en goede tempeh, tofu, sambal, kecap, verse kruiden. Benutten voor eiwitrijke recepten.
+- Gebruik zo nodig het web (bijv. ah.nl) om assortiment of Bonus-aanbiedingen te checken bij het maken van een boodschappenlijst.
 
 ## Bestandskaart
 

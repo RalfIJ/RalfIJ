@@ -15,6 +15,10 @@ Vrijdag en zaterdag zijn de "geniet-dagen": lekker koken houdt het vol te houden
 
 **Batch-tips:** kook in één grote pan; verdeel direct na het koken in porties (bakjes); dal, chili en curry worden de dag erna alleen maar lekkerder. Alles met `[batch]` kan ook de vriezer in als noodvoorraad.
 
+**Porties:** de recepten hieronder zijn genoteerd per pan; er wordt voor **2 personen** gekookt. Zondag-batch = 6 porties (recept ×1,5), woensdag dubbel = 4 porties, vers op vr/za = 2 porties.
+
+**Toko-tip:** tempeh, tofu, sambal, kecap en verse kruiden haal je beter (en goedkoper) bij de Indonesische toko dan bij de AH.
+
 ## Ontbijt & lunch zonder koken (rotatie)
 
 1. **Kwark/skyr-bowl** — 250 g kwark of skyr, muesli of havermout, fruit, handje noten. (~25 g eiwit)

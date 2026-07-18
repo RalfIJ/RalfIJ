@@ -13,6 +13,7 @@ Maak een haalbaar vegetarisch weekmenu voor Ralf. Haalbaarheid gaat boven perfec
 - **Licht calorietekort zonder tellen**: stuur op porties en slimme defaults, niet op calorieën. Geen crashdieet, nooit maaltijden overslaan als strategie.
 - **Eiwit prioriteit**: elke maaltijd één duidelijke eiwitbron; streef ~110-125 g/dag (praktisch, niet gemeten).
 - Kookdagen: **alleen wo/vr/za/zo**. Ma/di/do: opwarmen of <10 min.
+- **2 personen**: zondag-batch = 6 porties (3 dagen × 2), woensdag dubbel = 4 porties. Schaal de receptporties uit `referentie/recepten.md` hierop.
 
 ## De kookdag-strategie (kern)
 
@@ -31,6 +32,13 @@ Vrijdag en zaterdag zijn geniet-dagen — die houden het vol te houden. Donderda
 2. **Lees `referentie/recepten.md`** en stel het menu samen: batch-recept voor zondag, dubbel-recept voor woensdag, twee verse recepten voor vr/za. Wissel af met vorige weken als die bekend zijn.
 3. **Presenteer het weekmenu als tabel**: dag | avondmaal | bron (vers gekookt / batch / restje / snel). Noem ook de ontbijt/lunch-rotatie kort.
 4. **Boodschappenlijst**: gegroepeerd per supermarktcategorie (groente & fruit / houdbaar / koeling / diepvries), gesplitst in **weekend-inkoop** en eventueel een kleine **midweek-aanvulling** (voor de verse vr/za-recepten).
+
+## Winkels (zie ook CLAUDE.md)
+
+- Standaardlijst = **Albert Heijn** (naast de deur). Alles wat AH niet of duur heeft: benoem het apart.
+- **Indonesische toko**: eerste keus voor tempeh, tofu, sambal, kecap en verse kruiden — beter en goedkoper dan de supermarkt. Zet toko-items als apart lijstje.
+- **DekaMarkt**: noem alleen als alternatief bij grote inkopen; geen aparte lijst.
+- Bij twijfel over assortiment of voor Bonus-aanbiedingen: gebruik WebSearch/WebFetch op ah.nl. Niet elke week verplicht — alleen als het de lijst echt beter maakt.
 
 ## Guardrails
 
