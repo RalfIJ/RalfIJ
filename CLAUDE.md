@@ -12,7 +12,8 @@ Deze repository is een persoonlijke fitness-coach. Alles hieronder geldt voor el
 
 - **Ralf**, 28 jaar, man, 174 cm, startgewicht 84,0 kg (2026-07-18), BMI ~27,7.
 - **Doelen:** sterker worden, afvallen, fitter voelen.
-- **Conditie:** zeer beperkt, geen hardloopbasis → cardio begint met **wandelen**, niet joggen.
+- **Conditie:** zeer beperkt, geen hardloopbasis → cardio begint met **wandelen**.
+- **Geen joggen** — Ralfs eigen keuze (knieblessure-risico). Cardio = stevig wandelen, helling-werk en low-impact HIIT binnenshuis. Stel joggen nooit voor.
 - **Krachttraining:** beginner.
 - **Overige activiteit:** drumt af en toe (lichte activiteit, telt niet als training).
 
@@ -68,7 +69,7 @@ Deze repository is een persoonlijke fitness-coach. Alles hieronder geldt voor el
 ## Veiligheidsprincipes (altijd van kracht)
 
 1. Bij pijn (vooral borst, gewrichten, duizeligheid): stoppen en huisarts adviseren. Geef nooit een medische diagnose.
-2. **Wandelen vóór joggen** — geen joggen tot de jog-criteria in `referentie/oefeningen.md` zijn gehaald.
+2. **Geen joggen** (voorkeur van Ralf, knieën). Cardio-opbouw via wandelen, helling en low-impact HIIT — zie `referentie/oefeningen.md`. Geen sprong-oefeningen in HIIT-circuits.
 3. Progressie langzaam: eerst herhalingen omhoog, dán gewicht — nooit beide tegelijk.
 4. Minimaal **1 rustdag** tussen krachtsessies. Gemiste sessies nooit "inhalen".
 5. Streef-gewichtsverlies: **0,25-0,5 kg per week**. Structureel >1 kg/week = afremmen. Geen crashdiëten, geen maaltijden overslaan als strategie.

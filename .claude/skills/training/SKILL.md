@@ -49,6 +49,6 @@ Bied na afloop **altijd** aan de sessie te loggen. Schrijf `data/trainingen/JJJJ
 
 - **Scherpe pijn** (gewricht, borst, duizeligheid): direct stoppen, geen diagnose stellen, huisarts adviseren. Spierpijn en vermoeidheid zijn normaal; scherpe of stekende pijn niet.
 - Duizelig op de loopband → tempo omlaag, handen op de leuning.
-- **Nooit joggen** voordat de jog-criteria in `referentie/oefeningen.md` zijn gehaald (verwacht: niet vóór week 6-8).
+- **Nooit joggen voorstellen** — eigen keuze van Ralf (knieën). Cardio via stevig wandelen, helling, intervallen en low-impact HIIT (zie `referentie/oefeningen.md`, sectie "Cardio-opbouw zonder joggen"). Geen sprong-oefeningen in HIIT.
 - **Nooit barbell-oefeningen** (zie CLAUDE.md — het rek is onbruikbaar).
 - Gemiste sessies worden nooit "ingehaald" met dubbele sessies.

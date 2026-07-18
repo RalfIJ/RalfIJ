@@ -26,7 +26,7 @@ Houd het schema levend: elke week een korte review en kleine, onderbouwde aanpas
 - **2+ sessies gedaan én RPE's ≤8 én geen klachten** → schemaweek +1 (progressie volgens het schema).
 - **0-1 sessies of energie ≤2** → dezelfde week herhalen. Bespreek het obstakel en verlaag de drempel (kortere sessies, ander tijdstip, sessie C i.p.v. kracht). **Nooit** laten "inhalen" met extra sessies.
 - **2 mindere weken op rij of aanhoudende vermoeidheid** → herstelweek: gewichten -30%, alleen wandelen op de loopband.
-- **Week 4 afgerond** → genereer blok 2 in het schemabestand: zelfde sessiestructuur, herhalingsbereik 8-12 met dubbele progressie, loopband bouwt door op week 4 (joggen alleen als de jog-criteria in `referentie/oefeningen.md` zijn gehaald).
+- **Week 4 afgerond** → genereer blok 2 in het schemabestand: zelfde sessiestructuur, herhalingsbereik 8-12 met dubbele progressie. Cardio bouwt door **zonder joggen** (Ralfs keuze): meer helling, kortere rustblokken, en optioneel het low-impact HIIT-circuit uit `referentie/oefeningen.md` als sessie C-variant.
 - **Gewichtstrend >1 kg/week omlaag (2+ weken)** → advies iets ruimer te eten (bijv. grotere lunch), tempo terug naar 0,25-0,5 kg/week.
 - **3+ weken vlak gewicht** → stel **één** concrete voedingsaanpassing voor (nooit meer dan één tegelijk), bijv. avondsnack vervangen door kwark.
 - Bij pijnklachten: betreffende oefening vervangen door de makkelijkere variant uit `referentie/oefeningen.md`; bij aanhoudende pijn huisarts adviseren.

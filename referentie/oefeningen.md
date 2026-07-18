@@ -219,12 +219,26 @@ Per oefening: uitvoeringscues, veelgemaakte fouten en hoe je de oefening makkeli
 
 "Vlot" = tempo waarbij korte zinnen nog net lukken. Alles is **wandelen**.
 
-## Jog-criteria
+## Cardio-opbouw zonder joggen
 
-Introduceer pas licht joggen (korte intervallen van 30-60 s) wanneer **alle drie** gelden:
+**Er wordt niet gejogd — eigen keuze (knieblessure-risico).** De conditie bouwt op via knievriendelijke intensiteit, in deze volgorde:
 
-1. 30 minuten stevig wandelen (±6 km/u of helling 4-6%) voelt comfortabel.
-2. Geen knie-, enkel- of heupklachten bij of na het wandelen.
-3. Minimaal 6-8 weken consistente training achter de rug.
+1. **Duur** — langer stevig wandelen (20 → 30 min).
+2. **Helling** — dé knievriendelijke intensiteitsknop: van 2-3% naar 6-8%, tempo gelijk. Stevig bergop wandelen belast het hart als joggen, maar zonder de impact.
+3. **Intervallen** — blokken vlot/rustig of helling-op/helling-af (zoals week 3-4 van blok 1).
+4. **Low-impact HIIT binnenshuis** (vanaf blok 2, als blok 1 goed is afgerond) — zie hieronder.
 
-Tot die tijd: **niet joggen.** Met een BMI van ~28 en geen hardloopbasis is te vroeg joggen de snelste weg naar een blessure die alles stillegt.
+### Low-impact HIIT-circuit (binnenshuis, ~20 min)
+
+Intervalvorm: **30 s werk / 45 s rust**, 4 oefeningen per ronde, 3-4 rondes. Start met 3 rondes en 45 s rust; korter rusten (30 s) is de progressie — niet meer sprongen.
+
+| # | Oefening | Let op |
+|---|---|---|
+| 1 | Goblet squat (licht, vlot tempo) | Nette diepte, geen sprong |
+| 2 | Step-ups op traptrede of stevige verhoging | Wissel van been, hand aan leuning mag |
+| 3 | Dumbbell-stoten (boksen met 1-3 kg) | Romp draait mee, schouders laag |
+| 4 | Farmer carry (heen en weer lopen, zwaar) | Rechtop, rustige passen |
+
+**Regels:** geen sprong- of impact-oefeningen (geen jump squats, burpees of jumping jacks); praattest na de rust — kun je geen woord uitbrengen, verleng de rust; bij kniepijn tijdens een oefening → vervangen door glute bridge; HIIT telt als sessie C, niet als extra bovenop.
+
+**Waarom dit werkt:** conditie is een kwestie van je hart uitdagen, niet van rennen. Helling-wandelen en circuits met korte rust doen dat net zo goed, met een fractie van de belasting op de knieën.

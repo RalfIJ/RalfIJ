@@ -76,7 +76,7 @@ Zie de protocollen in `referentie/oefeningen.md` (sectie Loopband). Kort:
 | 3 | 30 min: 4 × (2 min vlot / 3 min rustig) |
 | 4 | 30 min: 5 × (2 min vlot of helling 4% / 2 min rustig) |
 
-**Geen joggen in blok 1.**
+**Er wordt niet gejogd** (eigen keuze, knieën) — de opbouw loopt via duur → helling → intervallen → low-impact HIIT (zie `referentie/oefeningen.md`).
 
 ## Progressie over de weken
 
@@ -96,3 +96,4 @@ Na week 4 genereert `/weekcheck` blok 2 (herhalingsbereik 8-12 met dubbele progr
 | Datum | Aanpassing | Waarom |
 |---|---|---|
 | 2026-07-18 | Blok 1 aangemaakt | Startpunt: beginner, 2-3×/week, dumbbells + loopband |
+| 2026-07-18 | Joggen definitief uit de opbouw | Eigen keuze Ralf (knieblessure-risico); cardio via helling, intervallen en low-impact HIIT |
