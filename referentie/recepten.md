@@ -19,12 +19,14 @@ Vrijdag en zaterdag zijn de "geniet-dagen": lekker koken houdt het vol te houden
 
 **Toko-tip:** tempeh, tofu, sambal, kecap en verse kruiden haal je beter (en goedkoper) bij de Indonesische toko dan bij de AH.
 
+**Voorkeuren:** alleen milde kazen (geraspte kaas, cheddar, mozzarella, parmezaan als strooikaas — geen halloumi, brie, geitenkaas, feta of roomkaas). Vanwege psoriasis is de zachte voorkeur ontstekingsremmend eten: veel groente, peulvruchten, volkoren, olijfolie en noten, weinig sterk bewerkt voedsel. Avondmaaltijden: ≥20 g eiwit per portie.
+
 ## Ontbijt & lunch zonder koken (rotatie)
 
 1. **Kwark/skyr-bowl** — 250 g kwark of skyr, muesli of havermout, fruit, handje noten. (~25 g eiwit)
 2. **Wrap met hummus en ei** — volkorenwrap, hummus, 2 gekookte eieren (kook 6 tegelijk op zondag), tomaat, sla. (~20 g eiwit)
 3. **Havermout met pindakaas** — havermout met melk, lepel pindakaas, banaan. (~18 g eiwit)
-4. **Snelle salade** — zak sla, kant-en-klare falafel, feta, olijfolie, stuk brood. (~20 g eiwit)
+4. **Snelle salade** — zak sla, kant-en-klare falafel, mini-mozzarella, olijfolie, stuk brood. (~20 g eiwit)
 
 ## Avondrecepten
 
@@ -67,13 +69,13 @@ Tofu droogdeppen, in blokjes krokant bakken, groenten erbij, sojasaus, noedels e
 
 ### 8. Shakshuka `[snel <15 min]`
 *2 porties · ~20 g eiwit p.p.*
-Blik tomaat, 4 eieren, ui, paprika, komijn, feta, brood.
-Fruit ui/paprika, tomaat + komijn erbij, kuiltjes maken, eieren erin, deksel erop tot gestold. Feta erover, brood erbij.
+Blik tomaat, 4 eieren, ui, paprika, komijn, geraspte kaas (optioneel), brood.
+Fruit ui/paprika, tomaat + komijn erbij, kuiltjes maken, eieren erin, deksel erop tot gestold. Beetje geraspte kaas erover, brood erbij.
 
-### 9. Halloumi-burgers `[vers]`
-*2 porties · ~24 g eiwit p.p.*
-Halloumi, burgerbroodjes, sla, tomaat, rode ui, yoghurtsaus, zoete-aardappelfriet uit de oven.
-Friet in de oven (25 min), halloumi in plakken grillen, burgers bouwen. Vrijdag-waardig.
+### 9. Krokante bonenburgers met cheddar `[vers]`
+*2 porties (4 burgers) · ~23 g eiwit p.p.*
+Zwarte bonen (2 blikken), havermout, 1 ei, komijn, paprikapoeder, cheddar, burgerbroodjes, sla, tomaat, rode ui, yoghurtsaus, zoete-aardappelfriet uit de oven.
+Friet in de oven (25 min). Bonen prakken (niet glad), meng met havermout, ei en specerijen, vorm 4 burgers en bak ze 3-4 min per kant krokant. Plak cheddar erop in de laatste minuut, burgers bouwen. Vrijdag-waardig.
 
 ### 10. Paddenstoelenrisotto `[vers]`
 *2 porties · ~15 g eiwit p.p. (+ ei of parmezaan voor meer)*
@@ -101,7 +103,7 @@ Aardappels 45-60 min in de oven (of 10 min magnetron), open snijden, vullen met 
 | Eieren (per stuk) | ~6-7 g |
 | Linzen (gekookt) | ~9 g |
 | Kikkererwten / bonen (gekookt) | ~8-9 g |
-| Halloumi / kaas | ~20-25 g (maar ook veel vet — met mate) |
+| Milde kaas (cheddar, mozzarella, geraspt) | ~18-25 g (maar ook veel vet — met mate) |
 | Noten / pindakaas | ~20-25 g (calorie-dicht — handjes, geen bakken) |
 
 Richtlijn: elke maaltijd één duidelijke eiwitbron. Streef ~110-125 g eiwit per dag; met de recepten hierboven plus kwark als ontbijt of snack kom je daar zonder te tellen.

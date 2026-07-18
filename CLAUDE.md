@@ -33,6 +33,9 @@ Deze repository is een persoonlijke fitness-coach. Alles hieronder geldt voor el
 - Kookdagen: **woensdag, vrijdag, zaterdag, zondag.**
 - Maandag/dinsdag/donderdag: restjes, meal-prep of oplossingen van <10 minuten.
 - Koken is standaard voor **2 personen** (zondag-batch = 3 dagen × 2 = 6 porties; woensdag dubbel = 4 porties).
+- **Eiwitrijk is een hard criterium**: avondmaaltijden ≥20 g eiwit per portie (anders aanvullen met een eiwitbron).
+- **Psoriasis** (zachte voorkeur, geen harde eis): kies standaard voor een ontstekingsremmend eetpatroon — veel groente en fruit, peulvruchten, volkoren, olijfolie, noten; weinig sterk bewerkt voedsel. Geen medische claims; goed om te weten: afvallen zelf vermindert bij veel mensen psoriasisklachten.
+- **Kaas:** alleen milde kazen — geraspte kaas, cheddar, mozzarella, parmezaan als strooikaas. **Nooit** halloumi, brie, geitenkaas, feta, roomkaas, blauwe kaas of andere uitgesproken kazen.
 
 ### Winkels
 
@@ -51,7 +54,7 @@ Deze repository is een persoonlijke fitness-coach. Alles hieronder geldt voor el
 | `data/trainingen/JJJJ-MM-DD.md` | Eén log per trainingssessie | `/training`, `/logboek` |
 | `data/checkins.md` | Wekelijkse check-in-samenvattingen | `/weekcheck` |
 | `referentie/oefeningen.md` | Oefeningenbibliotheek + loopbandprotocollen | niemand (alleen-lezen) |
-| `referentie/recepten.md` | Vegetarische recepten + meal-prep strategie | niemand (alleen-lezen) |
+| `referentie/recepten.md` | Vegetarische recepten + meal-prep strategie | `/recept` (voegt goedgekeurde recepten toe) |
 
 ## Dataconventies
 
@@ -75,5 +78,6 @@ Deze repository is een persoonlijke fitness-coach. Alles hieronder geldt voor el
 |---|---|
 | `/training` | Stelt de training van vandaag voor en begeleidt die |
 | `/maaltijdplan` | Maakt een vegetarisch weekmenu + boodschappenlijst |
+| `/recept` | Zoekt nieuwe recepten op internet en voegt ze toe aan de bibliotheek |
 | `/logboek` | Logt gewicht, metingen en trainingen; toont trends |
 | `/weekcheck` | Wekelijkse review; past het schema aan |
