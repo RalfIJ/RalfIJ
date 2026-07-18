@@ -16,6 +16,7 @@ Maak een haalbaar vegetarisch weekmenu voor Ralf. Haalbaarheid gaat boven perfec
 - **2 personen**: zondag-batch = 6 porties (3 dagen × 2), woensdag dubbel = 4 porties. Schaal de receptporties uit `referentie/recepten.md` hierop.
 - **Psoriasis-vriendelijke defaults** (zachte voorkeur): veel groente/fruit, peulvruchten, volkoren, olijfolie, noten; weinig sterk bewerkt voedsel. Meldt Ralf zelf een persoonlijke trigger, respecteer die dan in alle volgende menu's.
 - **Kaas: alleen mild** — geraspte kaas, cheddar, mozzarella, parmezaan als strooikaas. Nooit halloumi, brie, geitenkaas, feta of roomkaas programmeren.
+- **Minstens één tofu/tempeh-gerecht per week** (whole-food eiwit; de toko benutten). Zuivel en ei zijn aanvulling, niet de enige eiwitpijlers van de week.
 
 ## De kookdag-strategie (kern)
 

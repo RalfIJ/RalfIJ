@@ -17,7 +17,7 @@ Vrijdag en zaterdag zijn de "geniet-dagen": lekker koken houdt het vol te houden
 
 **Porties:** de recepten hieronder zijn genoteerd per pan; er wordt voor **2 personen** gekookt. Zondag-batch = 6 porties (recept ×1,5), woensdag dubbel = 4 porties, vers op vr/za = 2 porties.
 
-**Toko-tip:** tempeh, tofu, sambal, kecap en verse kruiden haal je beter (en goedkoper) bij de Indonesische toko dan bij de AH.
+**Toko-tip:** tempeh, tofu, sambal, kecap en verse kruiden haal je beter (en goedkoper) bij de Indonesische toko dan bij de AH. Verse tempeh is prima in te vriezen — sla gerust een voorraad in.
 
 **Voorkeuren:** alleen milde kazen (geraspte kaas, cheddar, mozzarella, parmezaan als strooikaas — geen halloumi, brie, geitenkaas, feta of roomkaas). Vanwege psoriasis is de zachte voorkeur ontstekingsremmend eten: veel groente, peulvruchten, volkoren, olijfolie en noten, weinig sterk bewerkt voedsel. Avondmaaltijden: ≥20 g eiwit per portie.
 
@@ -91,6 +91,25 @@ Oven zo heet mogelijk. Geniet-dag-recept: pizza past prima in het plan, het gaat
 *2 porties · ~18 g eiwit p.p.*
 Zoete aardappels, zwarte bonen, Griekse yoghurt, kaas, bosui.
 Aardappels 45-60 min in de oven (of 10 min magnetron), open snijden, vullen met warme bonen, yoghurt en kaas.
+
+### 13. Orek tempe (tempeh in kecap manis) `[snel <15 min]`
+*2 porties · ~28 g eiwit p.p.*
+Tempeh (300 g, toko), sjalot, knoflook, rode peper, kecap manis, sperziebonen, rijst.
+Tempeh in blokjes rondom krokant bakken (2-3 min per kant), even apart houden. Sjalot, knoflook en peper fruiten; sperziebonen 4-5 min meebakken. Tempeh terug in de pan met een flinke scheut kecap manis en een scheutje water; omscheppen tot alles glanst. Serveer met rijst.
+*Let op bij de toko: sommige sambal/kecap bevat trassi (garnalenpasta) — check het etiket voor de vegetarische variant.*
+Bron: kokkieblanda.nl (orek tempe) · papertravels.nl/tempeh-orek-recept
+
+### 14. Tempeh saté met pindasaus `[vers]`
+*2 porties · ~30 g eiwit p.p.*
+Tempeh (300 g), marinade van kecap manis + sambal + limoensap + beetje sesamolie; pindasaus van pindakaas, kokosmelk of heet water, kecap en sambal; sperziebonen, rijst, gebakken uitjes.
+Tempeh in blokken minimaal 30 min marineren, aan spiesjes rijgen en rondom krokant bakken of grillen. Pindasaus: 4 el pindakaas losroeren met ~100 ml heet water of kokosmelk, op smaak met kecap en sambal. Serveer met rijst, sperziebonen en gebakken uitjes. Geniet-dag-waardig.
+Bron: dehippevegetarier.nl (tempeh-saté met sperziebonen en krokante uitjes) · leukerecepten.nl/recepten/tempeh-sate-spiesjes
+
+### 15. Gele curry met tempeh en bloemkool `[batch]`
+*4 porties · ~21 g eiwit p.p.*
+Tempeh (300 g), gele currypasta (2 el), 1 bloemkool, spinazie (400 g), kikkererwten (1 blik), kokosmelk (400 ml), ui, rijst.
+Fruit de currypasta 3 min met de ui, voeg kokosmelk toe en breng aan de kook. Bloemkoolroosjes en kikkererwten 8-10 min meekoken; spinazie in porties laten slinken. Bak de tempeh apart krokant en roer hem er de laatste 5 min door (blijft stevig). Serveer met rijst. Vriezerbestendig; ×1,5 voor de zondag-batch.
+Bron: dehippevegetarier.nl (vegan Thaise gele curry met bloemkool en spinazie)
 
 ## Eiwitbronnen-spiekbriefje
 

@@ -34,6 +34,7 @@ Deze repository is een persoonlijke fitness-coach. Alles hieronder geldt voor el
 - Maandag/dinsdag/donderdag: restjes, meal-prep of oplossingen van <10 minuten.
 - Koken is standaard voor **2 personen** (zondag-batch = 3 dagen × 2 = 6 porties; woensdag dubbel = 4 porties).
 - **Eiwitrijk is een hard criterium**: avondmaaltijden ≥20 g eiwit per portie (anders aanvullen met een eiwitbron).
+- Voorkeur voor **whole-food eiwitten** (tofu, tempeh, peulvruchten) als basis; vega-vleesvervangers en kaas als aanvulling, niet als hoofdpijler.
 - **Psoriasis** (zachte voorkeur, geen harde eis): kies standaard voor een ontstekingsremmend eetpatroon — veel groente en fruit, peulvruchten, volkoren, olijfolie, noten; weinig sterk bewerkt voedsel. Geen medische claims; goed om te weten: afvallen zelf vermindert bij veel mensen psoriasisklachten.
 - **Kaas:** alleen milde kazen — geraspte kaas, cheddar, mozzarella, parmezaan als strooikaas. **Nooit** halloumi, brie, geitenkaas, feta, roomkaas, blauwe kaas of andere uitgesproken kazen.
 
