@@ -116,6 +116,12 @@ Tempeh (300 g), gele currypasta (2 el), 1 bloemkool, spinazie (400 g), kikkererw
 Fruit de currypasta 3 min met de ui, voeg kokosmelk toe en breng aan de kook. Bloemkoolroosjes en kikkererwten 8-10 min meekoken; spinazie in porties laten slinken. Bak de tempeh apart krokant en roer hem er de laatste 5 min door (blijft stevig). Serveer met rijst. Vriezerbestendig; ×1,5 voor de zondag-batch.
 Bron: dehippevegetarier.nl (vegan Thaise gele curry met bloemkool en spinazie)
 
+### 16. Groente-traybake met kikkererwten `[vers]`
+*2 porties · ~22 g eiwit p.p. (kikkererwten + kaas; met een blok tofu erbij ~28 g)*
+2 blikken kikkererwten, paprika, courgette, rode ui, kerstomaatjes, olijfolie, komijn, paprikapoeder, knoflook, cheddar of parmezaan om te strooien.
+Oven op 200 °C. Snijd de groente grof, meng op een bakplaat met de uitgelekte kikkererwten, olijfolie en kruiden. 25-30 min roosteren (halverwege omscheppen). Laatste 5 min kaas erover. Serveer met (volkoren)couscous, brood of rijst en een klodder Griekse yoghurt. Mild — chilivlokken apart voor Ralf. Meer eiwit? Rooster een blok tofu in blokjes mee, of doe er een extra blik kikkererwten bij.
+Bron: proveg.org/nl (traybake met bloemkool, aardappel en kikkererwten) · studiokook.nl (geroosterde bloemkool met kikkererwten, courgette en paprika)
+
 ## Eiwitbronnen-spiekbriefje
 
 | Bron | Eiwit per 100 g |
