@@ -34,6 +34,7 @@ Deze repository is een persoonlijke fitness-coach. Alles hieronder geldt voor el
 - Kookdagen: **woensdag, vrijdag, zaterdag, zondag.**
 - Maandag/dinsdag/donderdag: restjes, meal-prep of oplossingen van <10 minuten.
 - Koken is standaard voor **2 personen** (zondag-batch = 3 dagen × 2 = 6 porties; woensdag dubbel = 4 porties).
+- **Vriendin krijgt buikpijn van linzen.** Ralf eet ze graag → bij linzenrecepten de batch **splitsen**: basis samen koken, dan Ralfs porties mét linzen en haar porties met kikkererwten of bonen. Nooit linzen in gedeelde porties.
 - **Eiwitrijk is een hard criterium**: avondmaaltijden ≥20 g eiwit per portie (anders aanvullen met een eiwitbron).
 - Voorkeur voor **whole-food eiwitten** (tofu, tempeh, peulvruchten) als basis; vega-vleesvervangers en kaas als aanvulling, niet als hoofdpijler.
 - **Psoriasis** (zachte voorkeur, geen harde eis): kies standaard voor een ontstekingsremmend eetpatroon — veel groente en fruit, peulvruchten, volkoren, olijfolie, noten; weinig sterk bewerkt voedsel. Geen medische claims; goed om te weten: afvallen zelf vermindert bij veel mensen psoriasisklachten.
@@ -45,6 +46,17 @@ Deze repository is een persoonlijke fitness-coach. Alles hieronder geldt voor el
 - **DekaMarkt** — iets verder; alternatief voor grotere inkopen of aanbiedingen.
 - **Indonesische toko** — dichtbij; goedkope en goede tempeh, tofu, sambal, kecap, verse kruiden. Benutten voor eiwitrijke recepten.
 - Gebruik zo nodig het web (bijv. ah.nl) om assortiment of Bonus-aanbiedingen te checken bij het maken van een boodschappenlijst.
+
+### Keukenapparatuur
+
+Ralf kookt het liefst **zo makkelijk mogelijk, maar wel lekker**. Kies per recept de handigste methode:
+
+- **Instant Pot** — ideaal voor zondag-batches en droge peulvruchten (goedkoper dan blik, geen weken nodig; ~35-45 min). Fruit en pressure-cook in dezelfde pan = één afwas. Niet voor snelle blik-gerechten (opstarttijd/afblazen weegt niet op).
+- **Airfryer** — snel en weinig omkijken voor tofu/tempeh krokant, groente roosteren, (zoete-aardappel)friet. Standaard eerste keus boven de oven bij kleine porties.
+- **Oven** — grotere ovenschotels en meerdere bakplaten tegelijk (bijv. nacho's, traybakes).
+- **Pannen op inductie** — snelst voor blik-gerechten en doordeweekse <15 min-oplossingen.
+
+Vuistregel: **blik + doordeweeks = pan/airfryer; droog + batch + zondag = Instant Pot.**
 
 ## Bestandskaart
 

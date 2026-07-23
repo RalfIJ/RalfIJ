@@ -17,6 +17,8 @@ Maak een haalbaar vegetarisch weekmenu voor Ralf. Haalbaarheid gaat boven perfec
 - **Psoriasis-vriendelijke defaults** (zachte voorkeur): veel groente/fruit, peulvruchten, volkoren, olijfolie, noten; weinig sterk bewerkt voedsel. Meldt Ralf zelf een persoonlijke trigger, respecteer die dan in alle volgende menu's.
 - **Kaas: alleen mild** — geraspte kaas, cheddar, mozzarella, parmezaan als strooikaas. Nooit halloumi, brie, geitenkaas, feta of roomkaas programmeren.
 - **Minstens één tofu/tempeh-gerecht per week** (whole-food eiwit; de toko benutten). Zuivel en ei zijn aanvulling, niet de enige eiwitpijlers van de week.
+- **Linzen: alleen in Ralfs porties** (vriendin krijgt er buikpijn van). Bij een linzenrecept in het menu: vermeld de splitsing expliciet (basis samen → Ralfs pan + linzen, haar pan + kikkererwten/bonen) en zet beide op de boodschappenlijst.
+- **Efficiënt koken = zo makkelijk mogelijk, maar wel lekker.** Kies per gerecht de handigste methode uit de keukenapparatuur (zie CLAUDE.md): Instant Pot voor batches/droge peulvruchten, airfryer voor krokante tofu/tempeh en friet, pan voor snelle blik-gerechten. Noem de methode kort bij het recept en benut apparaten die parallel kunnen draaien (bijv. airfryer + pan tegelijk) om kooktijd te drukken.
 
 ## De kookdag-strategie (kern)
 
