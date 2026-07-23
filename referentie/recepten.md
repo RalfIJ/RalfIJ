@@ -118,8 +118,9 @@ Bron: dehippevegetarier.nl (vegan Thaise gele curry met bloemkool en spinazie)
 
 ### 16. Groente-traybake met kikkererwten `[vers]`
 *2 porties · ~22 g eiwit p.p. (kikkererwten + kaas; met een blok tofu erbij ~28 g)*
-2 blikken kikkererwten, paprika, courgette, rode ui, kerstomaatjes, olijfolie, komijn, paprikapoeder, knoflook, cheddar of parmezaan om te strooien.
+2 blikken kikkererwten, bloemkool, courgette, paprika, rode ui, olijfolie, komijn, kurkuma, paprikapoeder, knoflook, cheddar of parmezaan om te strooien.
 Oven op 200 °C. Snijd de groente grof, meng op een bakplaat met de uitgelekte kikkererwten, olijfolie en kruiden. 25-30 min roosteren (halverwege omscheppen). Laatste 5 min kaas erover. Serveer met (volkoren)couscous, brood of rijst en een klodder Griekse yoghurt. Mild — chilivlokken apart voor Ralf. Meer eiwit? Rooster een blok tofu in blokjes mee, of doe er een extra blik kikkererwten bij.
+*(Samengesteld uit de twee bronnen hieronder; volledige pagina's waren niet te openen, dus varieer groente naar smaak.)*
 Bron: proveg.org/nl (traybake met bloemkool, aardappel en kikkererwten) · studiokook.nl (geroosterde bloemkool met kikkererwten, courgette en paprika)
 
 ## Eiwitbronnen-spiekbriefje
