@@ -21,6 +21,10 @@ Vrijdag en zaterdag zijn de "geniet-dagen": lekker koken houdt het vol te houden
 
 **Voorkeuren:** alleen milde kazen (geraspte kaas, cheddar, mozzarella, parmezaan als strooikaas — geen halloumi, brie, geitenkaas, feta of roomkaas). Vanwege psoriasis is de zachte voorkeur ontstekingsremmend eten: veel groente, peulvruchten, volkoren, olijfolie en noten, weinig sterk bewerkt voedsel. Avondmaaltijden: ≥20 g eiwit per portie.
 
+**Niet lekker:** allebei geen aubergine; Ralf geen paddenstoelen; vriendin geen linzen en niet heel pittig (beetje pit mag). Kies gerechten die zó voor beiden werken; splits alleen bij een echt gezondheidsvoordeel of als het kosteloos kan (mild koken, Ralf voegt zelf sambal toe).
+
+**Linzen-splitsing:** vriendin krijgt buikpijn van linzen, Ralf eet ze graag. Bij linzenrecepten (dal #1, linzensoep #3, linzenbolognese #6): basis samen koken en daarna splitsen — Ralfs porties mét linzen, haar porties met kikkererwten, bonen of vega-gehakt. Eiwit blijft zo bij beiden ≥20 g p.p.
+
 ## Ontbijt & lunch zonder koken (rotatie)
 
 1. **Kwark/skyr-bowl** — 250 g kwark of skyr, muesli of havermout, fruit, handje noten. (~25 g eiwit)
@@ -77,14 +81,15 @@ Fruit ui/paprika, tomaat + komijn erbij, kuiltjes maken, eieren erin, deksel ero
 Zwarte bonen (2 blikken), havermout, 1 ei, komijn, paprikapoeder, cheddar, burgerbroodjes, sla, tomaat, rode ui, yoghurtsaus, zoete-aardappelfriet uit de oven.
 Friet in de oven (25 min). Bonen prakken (niet glad), meng met havermout, ei en specerijen, vorm 4 burgers en bak ze 3-4 min per kant krokant. Plak cheddar erop in de laatste minuut, burgers bouwen. Vrijdag-waardig.
 
-### 10. Paddenstoelenrisotto `[vers]`
-*2 porties · ~15 g eiwit p.p. (+ ei of parmezaan voor meer)*
-Risottorijst, gemengde paddenstoelen, ui, bouillon, parmezaan (of vega-variant), witte wijn optioneel.
-Klassiek roeren, ~25 min. Zaterdag-project met een podcast erbij.
+### 10. Risotto met geroosterde pompoen `[vers]`
+*2 porties · ~16 g eiwit p.p. (+ witte bonen of extra parmezaan voor meer)*
+Risottorijst, pompoen (of courgette), ui, bouillon, parmezaan (of vega-variant), doperwten, witte wijn optioneel.
+Pompoen roosteren in de airfryer/oven; ondertussen risotto klassiek roeren, ~25 min; doperwten en pompoen er op het eind door. Zaterdag-project met een podcast erbij.
+*(Ralf lust geen paddenstoelen — dit is de risotto zonder; wil je meer eiwit, roer een blik witte bonen erdoor.)*
 
 ### 11. Zelfgemaakte pizza met veel groente `[vers]`
 *2 porties · ~20 g eiwit p.p.*
-Pizzadeeg (vers of kant-en-klaar), tomatensaus, mozzarella, paprika, champignons, rucola, evt. vega-shoarma.
+Pizzadeeg (vers of kant-en-klaar), tomatensaus, mozzarella, paprika, rode ui, rucola, evt. vega-shoarma.
 Oven zo heet mogelijk. Geniet-dag-recept: pizza past prima in het plan, het gaat om het weekgemiddelde.
 
 ### 12. Gevulde zoete aardappel `[snel <15 min actief]`
